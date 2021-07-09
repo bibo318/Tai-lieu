@@ -1,4 +1,4 @@
-# Tài liệu tổng kết khóa luận tốt nghiệp
+# Tài liệu
 -------------------------------------------
 # Mục lục
 ## [1. File system](https://github.com/lacoski/khoa-luan/tree/master/Filesystem)
