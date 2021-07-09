@@ -58,13 +58,7 @@
 ### [6.1.6 Các giải pháp lưu trữ của Ceph](Ceph/Ceph-provide.md)
 ### [6.1.7 Tổng hợp các câu lệnh thường sử dụng trên Ceph](Ceph/ceph-cmd-use.md)
 
-### 6.2 Lab trên Ceph
-### [6.2.1 Cài đặt Ceph trên CentOS 7](Ceph/ceph-install-basic-jewel-lab.md)
-### [6.2.1.1 Sử dụng Ceph như Block Device trên CentOS 7](Ceph/ceph-use-block-device.md)
-### [6.2.2 Cài đặt Ceph Storage Cluster 3 Node Jewel - CentOS 7](Ceph/ceph-install-jewel-lab.md)
-### [6.2.3 Cài đặt Ceph Storage Cluster 3 Node luminous - CentOS 7](Ceph/ceph-install-luminous-lab.md)
-### [6.2.4 Thiết lập Radosgw trên Ceph Cluster](Ceph/ceph-radosgw-install.md)
-### [6.2.5 Cài đặt Ceph All In One](Ceph/ceph-AIO-jewel.md)
+
 
 ## 7. Nextcloud, Owncloud
 ### [7.1 Cấu hình Nextcloud 13 trên CentOS 7](Nextcloud/nc-lab-install.md)
