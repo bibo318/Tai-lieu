@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 # Tài liệu system cơ bản
+=======
+# Tài liệu
+>>>>>>> 711f96a75ffebea84833f363fc2497814d6ab123
 -------------------------------------------
 # Mục lục
-## [1. File system](https://github.com/lacoski/khoa-luan/tree/master/Filesystem)
+## [1. File system](https://github.com/bibo318/Tai-lieu/tree/main/Filesystem)
 ### [1.1 Tổng quan về File system](Filesystem/filesystem.md)
 ### [1.2 Hệ thống tập tin trong Linux](Filesystem/filesystem-in-linux.md)
 ### [1.3 Các loại filesystem trong Linux](Filesystem/type-file-system.md)
@@ -18,7 +22,7 @@
 ### [1.14 Khôi phục FS](Filesystem/recovery.md)
 ### [1.15 IO Hệ thống IO, IO Hardware, Buffer and Cache ](Filesystem/IO-system.md)
 
-## [2. Hdd - SSD](https://github.com/lacoski/khoa-luan/tree/master/Hdd-SSD)
+## [2. Hdd - SSD](https://github.com/bibo318/Tai-lieu/tree/master/Hdd-SSD)
 ### [2.2 Tổng quan về hdd](Hdd-SSD/hdd.md)
 ### [2.2 Tổng quan về Sdd](Hdd-SSD/ssd.md)
 #### [2.2.1 Ram tĩnh và động](Hdd-SSD/Ph%C3%A2n%20lo%E1%BA%A1i%20Ram%20t%C4%A9nh.md)
@@ -30,7 +34,7 @@
 ### [2.6 Vấn đề về tốc độ Disk ](Hdd-SSD/extend-disk.md)
 ### [2.7 Cấu trúc, phân vùng Disk](Hdd-SSD/Disk-Formatting.md)
 
-## [3. Raid](https://github.com/lacoski/khoa-luan/tree/master/RAID)
+## [3. Raid](https://github.com/bibo318/Tai-lieu/tree/master/RAID)
 ### [3.1 Tổng quan Raid](RAID/raid%200%201%205.md)
 ### [3.2 Phân loại Raid cứng và mềm](RAID/raid%20cung%20mem.md)
 ## 4. Partition table
