@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # Tài liệu system cơ bản
-=======
-# Tài liệu
->>>>>>> 711f96a75ffebea84833f363fc2497814d6ab123
 -------------------------------------------
 # Mục lục
 ## [1. File system](https://github.com/bibo318/Tai-lieu/tree/main/Filesystem)
